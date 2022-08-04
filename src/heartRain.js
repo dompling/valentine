@@ -54,7 +54,7 @@ class Rain extends React.Component {
             transitionTimingFunction: 'linear',
             fontSize: 20
         }}>
-            ❤️
+            ❤️ 宝娃七夕快乐！！ ❤️
         </span>
     }
 }

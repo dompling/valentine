@@ -7,16 +7,6 @@
     "start": "cross-env NODE_ENV=development webpack-dev-server --config ./webpack/webpack.config.js",
     "build": "cross-env NODE_ENV=production webpack --config ./webpack/webpack.config.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yacan8/valentine.git"
-  },
-  "author": "can.yang",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yacan8/valentine/issues"
-  },
-  "homepage": "https://github.com/yacan8/valentine#readme",
   "dependencies": {
     "prismjs": "^1.17.1",
     "react": "16.0",

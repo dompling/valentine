@@ -52,7 +52,7 @@ class Rain extends React.Component {
         style={{
           left: start[0],
           top: start[1],
-          color: '#eb2f96',
+          color: '#ffadd2',
           transition: `all ${endTime / 1000}s`,
           transitionTimingFunction: 'linear',
           fontSize: 20,

@@ -58,7 +58,7 @@ class Rain extends React.Component {
           fontSize: 20,
         }}
       >
-        ❤️ 宝娃七夕快乐！！ ❤️
+        ❤️宝娃七夕快乐❤️
       </span>
     )
   }
